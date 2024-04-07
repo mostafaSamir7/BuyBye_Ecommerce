@@ -1,0 +1,3 @@
+old pass: asd@ASD123
+
+newPass: P@s$w0rd!
